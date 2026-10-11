@@ -14,6 +14,9 @@ sirf chat nahi.
 | Error handling + Undo | Galti pakadta hai, file actions wapas kar sakta hai |
 | Learning | "Sikhao" se apne words sikhao (Haryanvi/Bhojpuri bhi) |
 
+## ✋ Manual-first
+AIBhai sirf aapke bolne pe kaam karta hai. Background options (news alert, battery alert, caller announce, class auto-vibrate) default OFF hain.
+
 ## 🌐 Online + 📴 Offline (hybrid)
 Internet ho to online features, na ho to apne aap offline: on-device speech, Google offline voice, saare phone/file/study kaam. News/update jaise internet wale kaam **queue** mein jaate hain aur internet aate hi khud ho jaate hain. Offline mein pichli saved news & attendance dikhti hai.
 
@@ -42,6 +45,9 @@ Internet ho to online features, na ho to apne aap offline: on-device speech, Goo
 - 💸 **Kharcha tracker** • 🌙 **Good night routine** • 📊 **Daily report** • 🔒 **Secret notes (PIN)**
 - 🔌 **EV pro** — charging time, ₹/km running cost, torque; 🔁 unit converter (kW↔hp, bar↔psi, N↔kgf…)
 - 🔋 Battery 20%/100% alerts • 📞 Caller ka naam bolna • 🗣️ Hands-free baat-cheet • 🔗 Multi-step commands
+- 📁 **Folder + files** — "Sem1 naam ka folder banao aur usme Maths aur BEEE ki PDF daalo" (plan → approve → verify)
+- 🎓 **EV Career Pack** — study timer + streak, EV roadmap tracker, resume builder (+PDF), EV concept of the day, doubt notebook, spaced-repetition revision, GATE quiz, EV competitions list
+- 🔐 **Security** — lock screen pe safe commands; personal kaam pe unlock/fingerprint/face; secret vakya (voice passphrase); 3 galat koshish = 5 min lock
 - 🎙️ **Voices** — Adam & Nidhi: phone ki Google voice (free, unlimited, offline). Optional ElevenLabs premium
 - 🌐 Jis language mein poocho, usi mein jawab (Hinglish ↔ English)
 - 🖥️ Optional **PC Brain** — Ollama on your PC over Wi-Fi for open questions
