@@ -19,6 +19,7 @@ sirf chat nahi.
 - 📝 **Aaj ke kaam** — "Aaj mujhe assignment aur gym karna hai" → "Aaj kya karna hai?" → "Assignment ho gaya"
 - 🗂️ **Files** — "Communication wali PDF ko English folder mein daalo", "Downloads organize karo", "WhatsApp ke notes collect karo", Undo
 - 📊 **Attendance** — "Aaj Maths attend kiya", "Attendance batao" (75% ke liye kitni class chahiye)
+- 🎓 **College portal** — "Maths ki attendance kitni hai?" / "Overall attendance batao" → AIBhai portal (Okie Dokie) kholke % padhta hai aur bolke batata hai
 - ⏰ **Alarm / Timer / Reminder** — "Kal subah saade 6 baje alarm", "10 minute baad yaad dilana ki chai"
 - 📞 **Call / WhatsApp** — "Papa ko call karo", "Rahul ko WhatsApp pe bolo main aa raha hoon"
 - 🧮 **Engineering calc** — stress (F/A), Ohm's law, EV range (kWh, Wh/km), km/h→m/s, maths
