@@ -27,6 +27,9 @@ sirf chat nahi.
 - ☀️ **Briefing** — "Good morning" → time, battery, messages, kaam, attendance alerts, reminders
 - 📰 **News** — "Aaj ki news kya hai?" → EV & Mechanical updates sabse pehle, phir India + Tech (free Google News, no key). Roz 8 AM notification
 - 📕 **Galti Diary** — "Aaj ki galti: der se utha" → top performers ke tareeke + aapka "Solution: …" + pledge, repeat count & clean-streak, roz subah yaad
+- 🤖 **Phone control (Accessibility)** — "Screen pe kya hai", "Subscribe pe tap karo", "Scroll karo", "Back jao", "Screenshot lo", "Phone lock karo", kisi bhi app mein type; bank/UPI apps mein kabhi auto-tap nahi
+- ⚙️ **Koi bhi setting** — "Display settings kholo", "Battery settings kholo"…
+- 📲 **Self-updating** — naye install hue apps khud pehchanta hai; GitHub pe naya version aate hi khud download karke install karwata hai
 - 🎙️ **Voices** — Adam & Nidhi: phone ki Google voice (free, unlimited, offline). Optional ElevenLabs premium
 - 🌐 Jis language mein poocho, usi mein jawab (Hinglish ↔ English)
 - 🖥️ Optional **PC Brain** — Ollama on your PC over Wi-Fi for open questions
