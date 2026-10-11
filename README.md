@@ -14,6 +14,9 @@ sirf chat nahi.
 | Error handling + Undo | Galti pakadta hai, file actions wapas kar sakta hai |
 | Learning | "Sikhao" se apne words sikhao (Haryanvi/Bhojpuri bhi) |
 
+## 🌐 Online + 📴 Offline (hybrid)
+Internet ho to online features, na ho to apne aap offline: on-device speech, Google offline voice, saare phone/file/study kaam. News/update jaise internet wale kaam **queue** mein jaate hain aur internet aate hi khud ho jaate hain. Offline mein pichli saved news & attendance dikhti hai.
+
 ## Features
 - 📬 **Important messages** — "Bhai aaj kaun se message aaye?" (WhatsApp/SMS/Gmail/Classroom ko score karke important batata hai, OTP chhupata hai)
 - 📝 **Aaj ke kaam** — "Aaj mujhe assignment aur gym karna hai" → "Aaj kya karna hai?" → "Assignment ho gaya"
