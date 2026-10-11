@@ -33,6 +33,15 @@ Internet ho to online features, na ho to apne aap offline: on-device speech, Goo
 - 🤖 **Phone control (Accessibility)** — "Screen pe kya hai", "Subscribe pe tap karo", "Scroll karo", "Back jao", "Screenshot lo", "Phone lock karo", kisi bhi app mein type; bank/UPI apps mein kabhi auto-tap nahi
 - ⚙️ **Koi bhi setting** — "Display settings kholo", "Battery settings kholo"…
 - 📲 **Self-updating** — naye install hue apps khud pehchanta hai; GitHub pe naya version aate hi khud download karke install karwata hai
+- 🧠 **Memory** — "Yaad rakh mera locker number 42 hai" → "Locker number kya tha?"
+- 📐 **Formula bank** (offline) • ❓ **Quiz** (Maths/BEEE/EGD/Mechanics/EV, score) • ⏳ **Exam countdown**
+- 📅 **Timetable** — "Agla lecture kaunsa?", "Aaj ki classes" + class time pe auto vibrate
+- 🎯 **Focus mode** — Pomodoro + Instagram/YouTube/games block
+- 🎧 **Lecture mode** — class sun ke likhta hai → topics + important lines + PDF
+- 📷 **Photo se text** (offline OCR, Hindi + English) → bolke sunao / PDF / notes
+- 💸 **Kharcha tracker** • 🌙 **Good night routine** • 📊 **Daily report** • 🔒 **Secret notes (PIN)**
+- 🔌 **EV pro** — charging time, ₹/km running cost, torque; 🔁 unit converter (kW↔hp, bar↔psi, N↔kgf…)
+- 🔋 Battery 20%/100% alerts • 📞 Caller ka naam bolna • 🗣️ Hands-free baat-cheet • 🔗 Multi-step commands
 - 🎙️ **Voices** — Adam & Nidhi: phone ki Google voice (free, unlimited, offline). Optional ElevenLabs premium
 - 🌐 Jis language mein poocho, usi mein jawab (Hinglish ↔ English)
 - 🖥️ Optional **PC Brain** — Ollama on your PC over Wi-Fi for open questions
