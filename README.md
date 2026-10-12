@@ -47,6 +47,8 @@ Internet ho to online features, na ho to apne aap offline: on-device speech, Goo
 - 🔋 Battery 20%/100% alerts • 📞 Caller ka naam bolna • 🗣️ Hands-free baat-cheet • 🔗 Multi-step commands
 - 📁 **Folder + files** — "Sem1 naam ka folder banao aur usme Maths aur BEEE ki PDF daalo" (plan → approve → verify)
 - 🎓 **EV Career Pack** — study timer + streak, EV roadmap tracker, resume builder (+PDF), EV concept of the day, doubt notebook, spaced-repetition revision, GATE quiz, EV competitions list
+- 📥 **Download (VidMate)** — "Ye gaana audio mein download karo" → link/Share → VidMate → quality → Download → verify; ya YouTube se link Share → AIBhai
+- ✍️ **Story/caption ideas** — "Is photo pe story mein kya likhu? attitude" → photo samajh ke 4 captions (offline) + PC vision AI optional; Gallery se Share → AIBhai
 - 🔐 **Security** — lock screen pe safe commands; personal kaam pe unlock/fingerprint/face; secret vakya (voice passphrase); 3 galat koshish = 5 min lock
 - 🎙️ **Voices** — Adam & Nidhi: phone ki Google voice (free, unlimited, offline). Optional ElevenLabs premium
 - 🌐 Jis language mein poocho, usi mein jawab (Hinglish ↔ English)
