@@ -1,4 +1,7 @@
-# AIBhai 🤖🇮🇳 — Level-3 Personal AI Agent for Android
+# AIBhai
+
+Premium dark UI — Charcoal #191919 · White · Soft Pink #FBCFE8 (AI accent) · Emerald #059669 (success) · Primary Blue #2563EB.
+ 🤖🇮🇳 — Level-3 Personal AI Agent for Android
 
 AIBhai ek **offline-first voice assistant** hai jo power/home button long-press pe khulta hai,
 Hindi, Hinglish, English, Haryanvi aur Bhojpuri samajhta hai, aur phone pe **asli kaam** karta hai —
